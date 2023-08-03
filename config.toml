@@ -1,0 +1,6 @@
+baseURL = 'https://piwg.andrewyu.org/'
+languageCode = 'en-us'
+title = 'Pao Inclusiveness Working Group'
+
+[markup.goldmark.renderer]
+unsafe=true
