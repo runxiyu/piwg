@@ -18,14 +18,18 @@ h1 {
 }
 .index {
 	display: flex;
-	flex-flow: row;
+	flex-direction: row;
 	gap: 2rem;
 	max-width: 920px;
+	@media(max-width: 720px) {
+		flex-wrap: wrap;
+	}
 	.intext {
 		max-width: 720px;
 		flex-grow: 1;
 	}
 	aside {
+		margin: 0 auto;
 		width: 40%;
 		img {
 			display: block;
