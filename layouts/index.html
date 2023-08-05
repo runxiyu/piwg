@@ -3,9 +3,13 @@
 <main class="index">
 <div class="intext">
 	<h1>{{$.Title}}</h1>
+	{{.Content}}
 	<p>
-	The Pao Inclusiveness Working Group is a student-led working group at <a href="https://ykpaoschool.cn/">YK Pao School</a>. We aim to fight against racism, sexism, homophobia, tranphobia, and other forms of discrimination and bigotry, on campus and beyond.
+	The Pao Inclusiveness Working Group is a student-led working group at <a href="https://ykpaoschool.cn/">YK Pao School</a>. We aim to fight against racism, sexism, homophobia, transphobia, and other forms of discrimination and bigotry, on campus and beyond.
 	</p>
+	<nav><ul>
+		<li><a href="gil">Gender-inclusive language guide</a></li>
+	</ul></nav>
 	<p>
 	School is not in session yet... this site will see more development as the school year starts.
 	</p>
@@ -29,3 +33,4 @@
 </aside>
 </main>
 
+{{ partial "foot.html" . }}
