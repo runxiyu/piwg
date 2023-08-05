@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{$.Title}}</title>
-  <link rel="icon" type="image/png" href="/avatar.png">
+  <link rel="icon" type="image/png" href="/logo.png">
   {{ $style := resources.Get "main.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 </head>

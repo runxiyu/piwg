@@ -6,6 +6,8 @@ This is an informational copy of the YK Pao School Songjiang Campus Behaviour Po
 updated March 2020. This is not a canonical copy and **should not** be considered legal
 advice.
 
+**This page is copyrighted by YK Pao School. The public-domain dedication does not apply.**
+
 ## PURPOSE STATEMENT
 YK Pao High School seeks to encourage and uphold the highest standards of behaviour
 from all our students. However, we also recognise that an important part of adolescence

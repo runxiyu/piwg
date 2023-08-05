@@ -32,6 +32,7 @@ h1 {
 		margin: 0 auto;
 		width: 40%;
 		.logo {
+			width: 100%;
 			display: block;
 			margin: 0 auto;
 		}
@@ -68,8 +69,12 @@ main {
 	font-size: 0.85rem;
 }
 footer {
- 	margin-top: 2rem;
- 	text-align: center;
+	position: relative;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+ 	text-align: left;
  	font-size: 0.8rem;
  	color: #333;
 }
@@ -138,30 +143,31 @@ dl {
 	}
 }
 table {
-	color: #333;
+	// color: #333;
+	color: black;
 	background: white;
-	border: 1px solid grey;
-	font-size: 12pt;
+	border: 1px solid black;
+	// font-size: 12pt;
 	border-collapse: collapse;
 }
-table thead th,
-table tfoot th {
-	background: rgba(0,0,0,.1);
-}
+// table thead th,
+// table tfoot th {
+// 	background: rgba(0,0,0,.1);
+// }
 table caption {
-	padding:.5em;
+	padding:.4em;
 }
 table th,
 table td {
-	padding: .5em;
-	border: 1px solid lightgrey;
+	padding: .4em;
+	border: 1px solid black;
 }
-td.red {
-	background: #F8D7DA;
-}
-td.yellow {
-	background: #FFF3CD;
-}
-td.blue {
-	background: #CFE2FF;
-}
+// td.red {
+// 	background: #F8D7DA;
+// }
+// td.yellow {
+// 	background: #FFF3CD;
+// }
+// td.blue {
+// 	background: #CFE2FF;
+// }
