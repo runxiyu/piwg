@@ -6,4 +6,4 @@ This is an collection of informational copies of the YK Pao School Songjiang Cam
 updated March 2020. This is not a canonical copy and **should not** be considered legal
 advice.
 
-- [Behavior Policy](/behpl)
+- [Behavior Policy](/behpl/)
