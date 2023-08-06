@@ -2,7 +2,7 @@
 title: Simple Gender-inclusive Language Guide
 ---
 
-[Printable PDF](../res/sgilg.pdf)
+[Printable [Source](../res/sgilg.tex)/[PDF](../res/sgilg.pdf)]
 
 Gender-inclusive language acknowledges and respects **all** gender
 identities. It additionally promotes equality and helps reduce harmful
