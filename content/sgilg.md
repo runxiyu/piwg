@@ -42,7 +42,7 @@ biases and stereotypes.
     laptop here") or a person whose pronouns you do not know, either
     avoid pronouns altogether, or use gender-inclusive pronouns.
 
--   The bottom line.
+-   The bottom line
 
     Do not use words that represent LGBTQIA+ identities, or for that
     matter, any word that represents a minority or other group, in
