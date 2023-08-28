@@ -8,7 +8,7 @@ advice.
 
 **This page is copyrighted by YK Pao School. The public-domain dedication does not apply.**
 
-## PURPOSE STATEMENT
+## 1. PURPOSE STATEMENT
 YK Pao High School seeks to encourage and uphold the highest standards of behaviour
 from all our students. However, we also recognise that an important part of adolescence
 is making mistakes and learning from them. So, we want our school to be a
@@ -20,7 +20,7 @@ good and responsible behaviour, a culture where rewards, praise and affirmation 
 outnumber sanctions and a culture of consistency and clarity where students understand
 the consequences of their actions.
 
-## AIMS
+## 2. AIMS
 This policy aims to:
 - Provide a consistent approach to behaviour management
 - Outline how pupils are expected to behave
@@ -29,7 +29,7 @@ This policy aims to:
 - community with regards to behaviour management
 - Outline our system of rewards and sanctions
 
-## APPROACH
+## 3. APPROACH
 YK Pao High School is a place of learning, and we see this in the broadest sense. Of
 course, students have the opportunity to learn in the classroom, but alongside that, they
 also have the chance to learn about themselves and others in every aspect of their
@@ -39,7 +39,7 @@ ultimately, thrive. So, mistakes and poor decisions are viewed not solely as poo
 behaviour that needs to be sanctioned but also as “teachable moments” which students
 can learn from.
 
-## DEALING WITH INSTANCES OF INDISCIPLINE
+## 4. DEALING WITH INSTANCES OF INDISCIPLINE
 It is most important that all staff support one another by the consistency of their approach
 to disciplinary issues. A successful and experienced teacher will have few disciplinary
 issues: her/his standards and expectations will be known and pupils will respond. Pupils
@@ -78,12 +78,12 @@ difficulties or making mistakes. In return, when this happens we should receive 
 practical advice and the opportunity to reflect, in a non-confrontational way, on how to
 learn from the situation.
 
-## MISBEHAVIOUR
+## 5. MISBEHAVIOUR
 Misbehaviour is broken down into four categories: a) minor infractions; b) academic
 indiscipline; c) major infractions and d) severe infractions. There are defined in the
 following terms:
 
-### Minor infractions:
+### 5.1. Minor infractions:
 In the case of poor student decisions that affect the student only and create limited long term
 damage to their standing or education and are not repetitive, such as:
 
@@ -101,7 +101,7 @@ These incidents will be most likely be dealt with directly by the teacher presen
 requesting compliance rather than a specific sanction and will not require a referral to the HM
 or SLO.
 
-### Academic Indiscipline:
+### 5.2. Academic Indiscipline:
 In the case of poor student decisions relating to their actions in their work (excluding poor
 classroom behaviour which interrupts the learning of others, which is dealt with under major
 infractions), such as:
@@ -116,7 +116,7 @@ follow the ‘Incomplete Homework Policy’ issued by the Academic Affairs Offic
 class teacher is unable to resolve the situation themselves, they should seek the support
 of their Head of Department.
 
-### Major Infractions:
+### 5.3. Major Infractions:
 In the case of poor student decisions that affect other students and their ability to experience
 success at school and/or have longer term impact on a student’s education or standing,
 which may or may not be repetitive, such as:
@@ -139,7 +139,7 @@ academic dishonesty/malpractice. All such incidents will be investigated and stu
 complete a behaviour reflection sheet which will also be kept on file. Any such incident is
 likely to be disclosed in an external school or university application.
 
-### Severe Infractions:
+### 5.4. Severe Infractions:
 In the case of the following student decisions that affect other students and their ability to
 experience success at school and/or have longer term impact on a student’s education or
 standing, which may or may not be repetitive and are in some cases illegal, such as:
@@ -171,7 +171,7 @@ incidents will be investigated and students will complete a behaviour reflection
 which will also be kept on file. Any such incident is likely to be disclosed in an external
 school or university application.
 
-## BULLYING
+## 6. BULLYING
 Bullying is defined as the repetitive, intentional harming of one person or group by
 another person or group, particularly where the relationship involves an imbalance of
 power.
@@ -203,13 +203,13 @@ and resolved is conducted in whole staff faculty meetings.
 
 
 
-## ROLES AND RESPONSIBILITIES
-### The Senior Management Committee (SMC)
+## 7. ROLES AND RESPONSIBILITIES
+### 7.1. The Senior Management Committee (SMC)
 The SMC is responsible for reviewing and approving the school’s guiding statements. The
 SMC will also review this behaviour policy in conjunction with the Principal and monitor the
 policy’s effectiveness, holding the Principal to account for its implementation.
 
-### The Principal
+### 7.2. The Principal
 The Principal will ensure that the school environment encourages positive behaviour and that
 staff deal effectively with poor behaviour, and will monitor how staff implement this policy to
 ensure rewards and sanctions are applied consistently.
@@ -217,7 +217,7 @@ ensure rewards and sanctions are applied consistently.
 
 
 
-### Staff
+### 7.3. Staff
 Teaching and support staff are responsible for setting the tone and context for positive
 behaviour within the school.
 
@@ -243,7 +243,7 @@ Staff are responsible for:
 
 The senior leadership team will support staff in responding to behaviour incidents.
 
-### Parents
+### 7.4. Parents
 Parents are expected to:
 - Support their child in adhering to the behaviour policy
 - Inform the school of any changes in circumstances that may affect their child’s
@@ -253,7 +253,7 @@ Parents are expected to:
   outlined in this document
 
 
-### Students
+### 7.5. Students
 Students are expected to:
 - Approach school with a positive attitude
 - Show kindness and respect to all members of the community
@@ -266,7 +266,7 @@ Students are expected to:
 
 
 
-## OFF-CAMPUS AND ONLINE BEHAVIOUR
+## 8. OFF-CAMPUS AND ONLINE BEHAVIOUR
 All sections of this policy continue to apply when a student is on a school organised off-campus
 trip or is still in school uniform. They also apply for a student’s online actions
 especially those on public forums such as WeChat, QQ, Facebook, Instagram, Snapchat
@@ -274,8 +274,8 @@ etc. The school does not take any responsibility for the actions of a student wh
 under the direct supervision of the school, however, the school reserves the right to
 implement sanctions as outlined in this document if an incident does come to light.
 
-## REWARDS AND SANCTIONS
-### Rewards
+## 9. REWARDS AND SANCTIONS
+### 9.1. Rewards
 Positive behaviour will be rewarded with:
   - Praise
   - Letters or phone calls home to parents
@@ -284,7 +284,7 @@ Positive behaviour will be rewarded with:
   - Credits towards the YK Pao Challenge
   - Academic recognition through the Founders’ and Principal’s Awards
 
-### Sanctions
+### 9.2. Sanctions
 All sanctions **must** be logged in PowerSchool to keep clear record of student
 misbehaviour.
 
@@ -320,7 +320,7 @@ Sanctions for behaviours listed above in order of severity:
     by the school’s behavioural or academic expectations.
 
 
-### Reporting Disciplinary Action to Universities
+### 9.3. Reporting Disciplinary Action to Universities
 It is in a student’s and YK Pao School’s best interest to approach the university application
 process in an honest and ethical manner. Establishing and maintaining YK Pao School’s
 reputation for excellence and integrity among universities is of critical importance.
