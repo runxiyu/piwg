@@ -10,12 +10,11 @@ biases and stereotypes.
 
 -   Use vocabulary inclusive of all genders when possible.
 
-    | Avoid                | Use               |
+    | <++>                 | Suggestions       |
     |----------------------|-------------------|
     | Chairman             | Chair/Chairperson |
     | Girls and boys       | Students, etc.    |
     | Sisters and brothers | Siblings          |
-    | {Boy, Girl}-friend   | Loved one         |
 
     In general, avoid making gender assumptions.
 
