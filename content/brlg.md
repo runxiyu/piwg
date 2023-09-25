@@ -60,5 +60,3 @@ Whilst we have labels for people to use as they see fit, sexuality and gender ar
 </svg>
 
 The intersex-inclusive progress flag is a symbol of the LGBTQ+ community. The flag was remodeled after the original rainbow flag, which features six horizontal stripes of colors. The brown and black stripes have been added to represent people of color in the LGBTQ+ community, while the blue, pink and white stripes represent transgender and gender non-conforming people. The purple circle embedded inside the yellow field represents intersex people. These stripes are designed to be arrow-shaped to symbolize the progress towards inclusivity and diversity.
-
-This page is licensed under <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">CC BY-SA 4.0 International</a>. The public domain dedicator does not apply.
