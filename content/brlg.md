@@ -2,8 +2,6 @@
 title: A Brief Introduction to LGBTQ+ Concepts
 ---
 
-Inclusive Language Guide: LGBTQ+
-
 LGBTQ+ is an acronym that stands for lesbian, gay, bisexual, transgender, and queer. In recent years, the acronym has been expanded to include intersex (I), asexual (A), and two-spirited (2S) people. It is important to note that LGBTQ+ is an umbrella term that requires frequent expansion to represent the full spectrum of queer identities, and that new terms are constantly emerging to better embody the full diversity of the queer community.
 
 ## Lesbian
