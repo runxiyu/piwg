@@ -16,9 +16,10 @@ Gender identity is what a person thinks their<!-- ? --> own gender is.
 
 A person's gender identity may or may not correspond to their assigned sex.
 
+A person's gender identity is *usually* associated with that person's [pronouns](/sgilg/#pronouns).
+
 Agender
-: people who identify as having no gender.
-<!-- will this become increasingly defined? -->
+: people who identify as having no gender. <!-- will this become increasingly defined? -->
 
 Demigender
 : people identifying *mostly* with one gender.
@@ -37,7 +38,7 @@ Male
 
 ## Gender expression
 
-Gender expression, or gender presentation, is a person's behavior, mannerisms, interests, and appearance that are socially associated with gender, namely femininity or masculinity.
+Gender expression, or gender presentation, is a person's behavior, mannerisms, interests, and appearance that are socially associated with gender, namely femininity, masculinity, or androgyny. <!-- more? -->
 
 
 <!-- Gender identity differs from gender expression. A person may identify as male but have a conventionally female presentation.-->
